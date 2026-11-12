@@ -18,7 +18,7 @@ Or alternatively:
 - Speaker
 - And a way to power it.
 
-Not very different... You can use the built in amp in the CYD but it's grounding is not very good and it introduces a lot more crackling. I don't like crackles. You can always change the pinout in the arduino .ino file for the ESP32, and wire it up any which way. Of course I would've had touchscreen capabilities added but the touchscreen just wouldn't work with any of the pinouts I could find, so oh well.
+The code is quite hard to work with right now. but at least all you have to do is upload it and get the ip address from the esp32 after typing in the wifi name and password. Then you put the ip address into the Player on your computer and BAM! You have it saved in the player_data file that the player makes. it just stores little bits of info to remember.
 
 Here is a screenshot of the windows version of the program to stream videos:
 <img width="1920" height="1031" alt="WIN_CYD_SCREEN" src="https://github.com/user-attachments/assets/44453e17-f761-4284-b5a8-eeeef9c62473" />

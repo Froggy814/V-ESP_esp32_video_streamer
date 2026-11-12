@@ -6,17 +6,17 @@ This is the V-ESP (pronounced VESP like in vespa) It stands for Video ESP32 Stre
 The max resolution is 320x240 because if I went higher you could only get like 10fps. at 320x240 you can only really get a max of 20. depending on what video you are playing.
 
 Here is the list of parts that you will need to pull with off:
-ESP32
-TFT display
-MAX98357A Audio Amp
-Speaker
-And a way to power it.
+- ESP32
+- TFT display
+- MAX98357A Audio Amp
+- Speaker
+- And a way to power it.
 
 Or alternatively:
-CYD
-MAX98357A Audio Amp
-Speaker
-And a way to power it.
+- CYD
+- MAX98357A Audio Amp
+- Speaker
+- And a way to power it.
 
 Not very different... You can use the built in amp in the CYD but it's grounding is not very good and it introduces a lot more crackling. I don't like crackles. You can always change the pinout in the arduino .ino file for the ESP32, and wire it up any which way. Of course I would've had touchscreen capabilities added but the touchscreen just wouldn't work with any of the pinouts I could find, so oh well.
 

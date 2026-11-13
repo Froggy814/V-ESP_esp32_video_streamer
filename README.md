@@ -52,5 +52,7 @@ Things I want to add and fix
 10. And make it friendly for all!
 11. Play youtube URLS or the like.
 12. Maybe more...
+13. logo
+14. more platform availibility
 
 I hope you enjoy and please don't hesitate to ask questions. Thanks and enjoy! If you can make this into a mac application as well please do...

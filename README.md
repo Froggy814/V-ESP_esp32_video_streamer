@@ -2,7 +2,7 @@
 
 (DISCLAIMER: The code was written by AI)
 
-This is the V-ESP (pronounced VESP like in vespa) It stands for Video ESP32 Streaming. The S is hidden. This was created for the benefit of all (and me). :) As long as the other was not made by AI as well. I want to support humans. But I can't code very well...
+This is the VESP-s (pronounced VESP like in vespa) It stands for Video ESP32 Streaming. The S is silent. This was created for the benefit of all (and me). :) It was created by AI... I want to support humans. But I can't code very well...
 The max resolution is 320x240 because if I went higher you could only get like 10fps. at 320x240 you can only really get a max of 20. depending on what video you are playing.
 
 Here is the list of parts that you will need to pull with off:
@@ -54,5 +54,6 @@ Things I want to add and fix
 12. Maybe more...
 13. logo
 14. more platform availibility
+15. Fix Pause
 
 I hope you enjoy and please don't hesitate to ask questions. Thanks and enjoy! If you can make this into a mac application as well please do...

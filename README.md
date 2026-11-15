@@ -1,4 +1,4 @@
-# V-ESP_esp32_video_streamer
+# VESP-s_esp32_video_streamer
 
 (DISCLAIMER: The code was written by AI)
 

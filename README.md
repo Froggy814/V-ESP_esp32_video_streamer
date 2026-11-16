@@ -57,3 +57,18 @@ Things I want to add and fix
 15. Fix Pause
 
 I hope you enjoy and please don't hesitate to ask questions. Thanks and enjoy! If you can make this into a mac application as well please do...
+
+# V0.0.2! 4 days later...
+
+Alright! I got a couple things working. One big one is the x, y. And Resolution and FPS that are custom. WOW the ESP32 can do 60 FPS...
+
+Same wiring as the V0.0.1 but with tweaks to the code to make it better!
+
+I added from the list above:
+1. Custom resolution and the x, y
+2. Custom FPS
+3. Brightness. Decided not to do contrast
+4. and a logo...
+
+The Position is the one that moves your video around at lower resolutions. For a custom FPS and resolution you just type it into the box that the resolution and FPS are in. Simple as that! AMAZING!
+The Logo is hand drawn by yours truly and It still supports Windows and Linux... Not much more to tell...

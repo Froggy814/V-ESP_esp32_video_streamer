@@ -6,6 +6,8 @@
 #include <freertos/task.h>
 #include <esp_system.h>
 #include <errno.h>
+#include <FS.h>
+#include <SD.h>
 #include <lwip/tcp.h>
 #include <lwip/opt.h>
 #include <lwip/sockets.h>

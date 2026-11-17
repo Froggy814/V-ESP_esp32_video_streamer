@@ -69,6 +69,22 @@ I added from the list above:
 2. Custom FPS
 3. Brightness. Decided not to do contrast
 4. and a logo...
+5. And I fixed pause! How amazing is that!
 
-The Position is the one that moves your video around at lower resolutions. For a custom FPS and resolution you just type it into the box that the resolution and FPS are in. Simple as that! AMAZING!
+The Position is the one that moves your video around at lower resolutions. For a custom FPS and resolution you just type it into the box that the resolution and FPS are in. Simple as that! 
+AMAZING!
 The Logo is hand drawn by yours truly and It still supports Windows and Linux... Not much more to tell...
+
+I do have a lot more ideas but I will not list them all...
+
+1. Buttons on ESP32
+2. Contrast???
+3. Screen share
+4. youtube urls
+5. mac os
+6. (streaming from older os's like mac os 6...)
+7. Make the esp32 run a os and it is controlled by your pc's mouse and keyboard with files loaded from the pc. 🤷‍♂️
+8. other stuff.
+
+Enjoy!
+
